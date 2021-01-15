@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="title_style" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/black_2a</item>
+        <item name="fontFamily">@font/rubik_regular</item>
+    </style>
+
+    <style name="info_medium_style" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black_78</item>
+        <item name="fontFamily">@font/rubik_medium</item>
+    </style>
+
+    <style name="info_regular_style" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black_78</item>
+        <item name="fontFamily">@font/rubik_regular</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Skoot</string>
+
+    <string name="step1_title">Car registration</string>
+    <string name="step1_wait">Please wait</string>
+    <string name="step1_check">Checking with\nDVLA</string>
+
+    <string name="step2_refresh">Refresh car</string>
+    <string name="step2_title">Car registration complete! 👍</string>
+    <string name="car_type">Car Type:</string>
+    <string name="registered">Registered:</string>
+    <string name="colour">Colour:</string>
+    <string name="tax">Tax:</string>
+    <string name="tax_date">Tax Due Date:</string>
+    <string name="mot">MOT:</string>
+    <string name="mot_date">MOT Due Date:</string>
+</resources>
